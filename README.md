@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/willowkeem/github-profile-assets/blob/main/____-ezgif.com-video-to-gif-converter.gif?raw=true" alt="Willow Tree Growth GIF" width="400">
+</p>
 <h1 align="center">Hi 👋, I'm Willow Kim</h1>
 <h3 align="center">Passionate Aspiring Full-Stack Developer | Seeking to Create Impact.</h3>
 
