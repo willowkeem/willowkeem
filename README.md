@@ -1,22 +1,22 @@
 <p align="center">
   <img src="https://github.com/willowkeem/github-profile-assets/blob/main/____-ezgif.com-video-to-gif-converter.gif?raw=true" alt="Willow Tree Growth GIF" width="400">
 </p>
-<h1 align="center">Hi 👋, I'm Willow Kim</h1>
+<h1 align="center">Hi, I'm Willow Kim</h1>
 <h3 align="center">Passionate Aspiring Full-Stack Developer | Seeking to Create Impact.</h3>
 
-- 🔭 I’m currently working on **Personal Projecto for Portfolio (TBD)**
+-  I’m currently working on **Personal Projecto for Portfolio (TBD)**
 
-- 👯 I’m looking to collaborate on **Frontend/Backend Mini-Projects**
+-  I’m looking to collaborate on **Frontend/Backend Mini-Projects**
 
-- 🤝 I’m looking for help with **Code Review & Architecture Planning**
+-  I’m looking for help with **Code Review & Architecture Planning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/willowkeem](https://github.com/willowkeem)
+-  All of my projects are available at [https://github.com/willowkeem](https://github.com/willowkeem)
 
-- 💬 Ask me about **Full-Stack Fundamentals, API Design, Coding Best Practices**
+-  Ask me about **Full-Stack Fundamentals, API Design, Coding Best Practices**
 
-- 📫 How to reach me **yoentofu@gmail.com**
+-  How to reach me **yoentofu@gmail.com**
 
-- ⚡ Fun fact **My korean name is not Willow**
+-  Fun fact **My korean name is not Willow**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
